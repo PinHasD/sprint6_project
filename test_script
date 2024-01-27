@@ -1,1 +1,3 @@
 print ('my first script')
+if x = 1
+print ('1')
